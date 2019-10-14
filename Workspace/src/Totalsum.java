@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NewWorkspace {
+public class Totalsum {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("input number of league");
@@ -19,5 +19,5 @@ public class NewWorkspace {
         sum = a+ b +c;
         return sum;
     }
-}
 
+}
